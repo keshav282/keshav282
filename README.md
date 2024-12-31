@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **keshavmehta186@gmail.com**
 
-- 📄 Know about my experiences [i am a fresher](i am a fresher)
+- 📄(i am a fresher)
 
 - ⚡ Fun fact **i am funny**
 
