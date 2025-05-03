@@ -1,4 +1,11 @@
+## Hi there👋
+Here are some ideas to get you started:
 
+- 🌱 I’m currently learning **data analytics**
+- 😊pronouns:He/Him
+- 📫 How to reach me **keshavmehta186@gmail.com**
+
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kesh.av891) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshav-mehta-b9a838305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavmehta186@gmail.com) 
 
