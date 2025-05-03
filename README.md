@@ -1,4 +1,3 @@
-"C:\Users\KESHAV\Downloads\Black Modern Vlogger YouTube Banner.png"
 
 ## Hi there👋
 Here are some ideas to get you started:
