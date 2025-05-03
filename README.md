@@ -1,4 +1,4 @@
-![logo](https://github.com/keshav282/keshav282/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
+![logo](https://github.com/keshav282/keshav282/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 ## Hi there👋
 Here are some ideas to get you started:
 
